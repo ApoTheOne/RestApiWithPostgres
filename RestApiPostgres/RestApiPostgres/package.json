@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-postgres",
+  "version": "0.0.0",
+  "description": "RestApiPostgres",
+  "main": "app.js",
+  "author": {
+    "name": "ApoTheOun"
+  },
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
